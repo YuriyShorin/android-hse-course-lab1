@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BackgroundChangingApp</string>
+    <string name="change">Change!</string>
+    <string name="change_background_app">Change background app</string>
+    <string name="enter_colour">Enter colour</string>
+    <string name="error_message">Wrong format of colour. Please enter colour name or HEX!</string>
+</resources>
